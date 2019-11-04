@@ -1,13 +1,13 @@
 # cloningfungi
 
-#### **MYCELIUM CULTURES AND HOW TO LOOK AFTER THEM**  
+### **MYCELIUM CULTURES AND HOW TO LOOK AFTER THEM**  
   
 Agar cultures are intended for the storing, cloning and classifying of fungi. It provides a sterile surface, free from competitors, where the mycelium can grow in order to expand the amount of material.
 The process follows the mixing and sterilising of an agar recipe, which can vary greatly between species of fungi or even the mycologist doing the work. After the medium has been sterilised in an autoclave, it is left to cool to just about 50 degrees Celsius, where it can then be poured into pre-sterilised petri dishes in a controlled environment. The plates are then left to cool where the medium solidifies; these can now be inoculated with culture or stored for later use.  
 
 Once inoculated, the plates are stored in monitored conditions that match the species preferred environment, these are then left to grow for up to 2 weeks (once the mycelium has reached the edge of the plate. This finished plate can then either be stored as a sample, used for the creation of spawn or cloned further to create more plates.  
 
-##### **Agar plate procedures**
+#### **Agar plate procedures**
 Items needed: 8
 - 90mm plastic petri dishes/ plates
 - Agar agar
@@ -17,14 +17,14 @@ Items needed: 8
 - Dye (optional)
 - Isopropyl alcohol (70%)  
 
-##### **Equipment needed:**
+#### **Equipment needed:**
 - Autoclave/ Pressure cooker
 - Weighing scales (0.1g accuracy)
 - Pyrex beakers (needs to fit in the pressure cooker)
 - Sterile area (Still air box/ flow hood/ Bunsen burner)
 - Scalpel  
 
-##### **MEA Agar recipe**
+#### **MEA Agar recipe**
 - 10g Agar agar
 - 10g Malt barley extract
 - 1g Nutritional yeast
@@ -33,7 +33,7 @@ Items needed: 8
 
 Note: Around 750ml fills exactly 25 x 90mm plates. Change the recipe accordingly.  
 
-##### **Procedure**
+#### **Procedure**
 1. Weigh out ingredients and add boiling water, mix thoroughly.
 2. Pour into a container that can withstand the pressure cooker. A Pyrex beaker is recommended or some kind of glass flask that is made from heat resistant materials, additionally make sure that it pours without going everywhere. Wrap the opening of the container with tin foil to reduce the moisture loss through boiling.
 3. Add items to the pressure cooker, it may be helpful to add jars around the sides to stop the beaker from falling over. Make sure that the beaker is not in contact with the metal walls.
@@ -45,11 +45,11 @@ Note: Around 750ml fills exactly 25 x 90mm plates. Change the recipe accordingly
 9. If using the plates immediately, inoculate straight away, if not, wrap the individual plates using the parafilm strips and then store the plates in a cool, dark area until needed, upside down to limit condensation.
 Note: Don't forget to use sterile technique from step 4 onwards; even just the slightest speck of dust will compromise the plates with the consequences possibly arising much further down the line.  
 
-##### **Plate Culture Transfer**
+#### **Plate Culture Transfer**
 This stage is intended for the multiplication and expansion of living cultures whilst also allowing long term storage and maintenance of a database of species. Plate cultures can be transferred up to 50 times in sequence before it is recommended to end the specimen; this is due to the fact that over time as the culture ages and grows further and further, minor mutations begin to form in the DNA, most of which can be ignored, but some will cause the growth to fail, reduction in speed or other changes that can be detrimental to your process.
 Once you have the plates cooled and ready to be transferred to, you can begin this stage.  
 
-##### **Procedure**
+#### **Procedure**
 1. Similar to all processes in mycology, start by making sure everything is set up, wiped down and planned.
 2. Once the area is sterilised (with the Bunsen burner on if not using a flow hood/ still air box), take your fully colonised culture plate that is of interest and unwrap the parafilm.
 Ashley Granter – Co-founder & Materials Specialist @ Natura Design Studios | 2019
