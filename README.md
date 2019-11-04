@@ -76,10 +76,10 @@ Note: Make sure to keep a close eye on the development of your plates within the
 ![Artist Conk Fungus](/images/artistconk.jpg)
   
 ##### **[Birch Polypore](https://en.wikipedia.org/wiki/Fomitopsis_betulina)**
-![Birch Polypore](/images/Birch Polypore.jpg)
+![Birch Polypore](/images/Birchpolypore.jpg)
   
 ##### **[Bracket Fungus](https://en.wikipedia.org/wiki/Polypore)**
-![Bracket Fungus](/images/BBracketfungus.jpg)
+![Bracket Fungus](/images/Bracketfungus.jpg)
   
 ##### **[Fly Agaric](https://en.wikipedia.org/wiki/Amanita_muscaria)**
 ![Fly Agaric](/images/flyagaric.jpg)
