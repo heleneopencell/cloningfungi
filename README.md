@@ -1,14 +1,14 @@
 # cloningfungi
 
 ### **MYCELIUM CULTURES AND HOW TO LOOK AFTER THEM**  
+by Ashley Granter from [Natura Design Studios](https://www.instagram.com/natura_studios/?hl=en)
   
 Agar cultures are intended for the storing, cloning and classifying of fungi. It provides a sterile surface, free from competitors, where the mycelium can grow in order to expand the amount of material.
 The process follows the mixing and sterilising of an agar recipe, which can vary greatly between species of fungi or even the mycologist doing the work. After the medium has been sterilised in an autoclave, it is left to cool to just about 50 degrees Celsius, where it can then be poured into pre-sterilised petri dishes in a controlled environment. The plates are then left to cool where the medium solidifies; these can now be inoculated with culture or stored for later use.  
 
 Once inoculated, the plates are stored in monitored conditions that match the species preferred environment, these are then left to grow for up to 2 weeks (once the mycelium has reached the edge of the plate. This finished plate can then either be stored as a sample, used for the creation of spawn or cloned further to create more plates.  
-
+__________________________
 #### **Agar plate procedures**
-Items needed: 8
 - 90mm plastic petri dishes/ plates
 - Agar agar
 - Malt barley extract
