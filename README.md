@@ -16,14 +16,14 @@ Items needed: 8
 - Parafilm tape
 - Dye (optional)
 - Isopropyl alcohol (70%)  
-
+__________________________
 #### **Equipment needed:**
 - Autoclave/ Pressure cooker
 - Weighing scales (0.1g accuracy)
 - Pyrex beakers (needs to fit in the pressure cooker)
 - Sterile area (Still air box/ flow hood/ Bunsen burner)
 - Scalpel  
-
+__________________________
 #### **MEA Agar recipe**
 - 10g Agar agar
 - 10g Malt barley extract
@@ -32,7 +32,7 @@ Items needed: 8
 - Dye (optional – Varies depending on strength)  
 
 Note: Around 750ml fills exactly 25 x 90mm plates. Change the recipe accordingly.  
-
+__________________________
 #### **Procedure**
 1. Weigh out ingredients and add boiling water, mix thoroughly.
 2. Pour into a container that can withstand the pressure cooker. A Pyrex beaker is recommended or some kind of glass flask that is made from heat resistant materials, additionally make sure that it pours without going everywhere. Wrap the opening of the container with tin foil to reduce the moisture loss through boiling.
