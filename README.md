@@ -70,6 +70,28 @@ To add to this process, you can adapt it further following from step 8. Once you
 6. Cut away a piece of tissue from the centre of the stem, being careful not to touch the scalpel blade with the outside of the stem or any other surface/object that could compromise the sterility.
 7. Once you’ve managed to cut a small sample away, place it on the centre of the petri dish carefully and repeat this step will you’ve finished with the current sample.
 8. Wrap and seal all the petri dishes with parafilm, label and store.
-Note: Make sure to keep a close eye on the development of your plates within the next 3-4 days. You are hoping to see some white mycelium growth stemming from the tissue sample, as soon as you see enough that you can take a culture transfer from, do so immediately. Tissue cultures are one of the hardest processes to master as it requires you to carefully transfer the fresh, clean mycelium multiple times to ensure that any spore or contaminants that have likely been transferred on the plates too can be isolated away; this is called ‘running’ the culture, in order to finish with a pure, clean mycelium culture.
+Note: Make sure to keep a close eye on the development of your plates within the next 3-4 days. You are hoping to see some white mycelium growth stemming from the tissue sample, as soon as you see enough that you can take a culture transfer from, do so immediately. Tissue cultures are one of the hardest processes to master as it requires you to carefully transfer the fresh, clean mycelium multiple times to ensure that any spore or contaminants that have likely been transferred on the plates too can be isolated away; this is called ‘running’ the culture, in order to finish with a pure, clean mycelium culture.  
+#### **Selection of Fungus you can find in Richmonad Park, London**
 ##### **[Artist Conk Fungus](https://en.wikipedia.org/wiki/Ganoderma_applanatum)**
 ![Artist Conk Fungus](/images/artistconk.jpg)
+  
+##### **[Birch Polypore](https://en.wikipedia.org/wiki/Fomitopsis_betulina)**
+![Birch Polypore](/images/Birch Polypore.jpg)
+  
+##### **[Bracket Fungus](https://en.wikipedia.org/wiki/Polypore)**
+![Bracket Fungus](/images/BBracketfungus.jpg)
+  
+##### **[Fly Agaric](https://en.wikipedia.org/wiki/Amanita_muscaria)**
+![Fly Agaric](/images/flyagaric.jpg)
+  
+##### **[Honey Fungus](https://en.wikipedia.org/wiki/Armillaria)**
+![Honey Fungus](/images/honeyfungus.jpg)
+  
+##### **[Horse Hoof Fungus](https://en.wikipedia.org/wiki/Fomes_fomentarius)**
+![Horse Hoof Fungus](/images/horsehuf.jpg)
+  
+##### **[Oyster Mushroom](hhttps://en.wikipedia.org/wiki/Pleurotus)**
+![Oyster Mushroom](/images/oyster.jpg)
+  
+##### **[Puffball](https://en.wikipedia.org/wiki/Puffball)**
+![Puffball](/images/puffball.jpg)
